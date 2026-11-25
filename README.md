@@ -1,7 +1,7 @@
 ### OutSystems Lead Developer · C#/.NET · React
 Philadelphia · Open to new roles
 
-Lead developer with 5+ years building enterprise apps in OutSystems, now shipping hand-written C#/.NET and React projects.
+Lead developer with 5+ years building enterprise apps in OutSystems, now building C#/.NET and React projects with AI-assisted development (Claude Code).
 
 ### What I'm building
 - **[seat-finder](https://github.com/joeypetrone/seat-finder)**: finds the best available seats for a show (ASP.NET Core Web API + React/TypeScript)
