@@ -1,6 +1,5 @@
-# Hi, I'm Joey 👋
-
-OutSystems Lead Developer in Philadelphia, now building in **C#/.NET** and **React**. Open to new roles.
+# Joey Petrone
+**OutSystems Lead Developer · C#/.NET · React** · Philadelphia · Open to new roles
 
 ### What I'm building
 - **[seat-finder](https://github.com/joeypetrone/seat-finder)**: finds the best available seats for a show (ASP.NET Core Web API + React/TypeScript)
